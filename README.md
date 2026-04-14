@@ -1,5 +1,9 @@
 # Ecommerce Analytics Portfolio Project
 
+<img width="1884" height="908" alt="image" src="https://github.com/user-attachments/assets/56910d60-0b91-4b50-9b13-16f0f0673c8f" />
+
+<img width="1812" height="887" alt="image" src="https://github.com/user-attachments/assets/d51f95c9-7c23-4948-8631-93103756ec66" />
+
 This project is designed to help a fresher get shortlisted for Data Analyst roles by showing an end-to-end ecommerce analytics workflow:
 
 - ingest a large public dataset
